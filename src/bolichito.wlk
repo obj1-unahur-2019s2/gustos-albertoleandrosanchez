@@ -18,10 +18,12 @@ object bolichito {
 	}
 	
 	method estaDesequilibrado() {
-		// completar
+		return objetoEnMostrador.peso() != objetoEnVidriera.peso()
+		
 	}
 	
 	method tieneAlgoDeColor(color) {
+		
 		// completar
 	}
 
