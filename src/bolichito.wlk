@@ -23,11 +23,7 @@ object bolichito {
 	}
 	
 	method tieneAlgoDeColor(color) {
+			return objetoEnMostrador.color()==color || objetoEnVidriera.color() ==color
 		
-		// completar
-	}
-
-	method puedeOfrecerleAlgoA(persona) {
-		// completar
 	}
 }
